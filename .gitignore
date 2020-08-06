@@ -1,0 +1,19 @@
+# 프로젝트, BAKUP ignore.
+[bB]in/
+[oO]ut/
+[pP]kg/
+/*.bak
+/*.class
+/*.a
+
+
+# 필수 Data
+!README.md
+
+
+# TEST data ignore.
+testText.txt
+
+
+# study textData ignore.
+gitignore_ex.txt
